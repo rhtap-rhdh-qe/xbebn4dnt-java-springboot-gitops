@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xbebn4dnt-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xbebn4dnt-java-springboot-gitops
